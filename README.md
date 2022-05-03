@@ -1,5 +1,5 @@
 # Lab-based-Project
-Repo for Lab based Project under Prof. Pravendra Singh
+Repo for Lab based Project under the supervision of Professor Pravendra Singh at the Department of Computer Science and Engineering, IIT Roorkee
 
 Research Topic- Gradient Projection Memory for Continual Learning
 
